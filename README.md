@@ -1,2 +1,2 @@
 # MyLight
-Simple Light Android created using Android Studio and java.
+Simple Light Android App created using Android Studio and java.
